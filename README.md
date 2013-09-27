@@ -1,4 +1,4 @@
-scrumposties
+scrumstickies
 ============
 
-ScrumPosties is a structured way to create facsimiles of scrum sticky notes for the screen and print.
+ScrumStickies is a structured way to create facsimiles of scrum sticky notes for the screen and print.
