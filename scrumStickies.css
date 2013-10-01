@@ -88,5 +88,6 @@
 	.ticket {
 		margin: 0;
 		border: 1px dashed rgba(0, 0, 0, 0.2);
+		page-break-inside: avoid;
 	}
 }
