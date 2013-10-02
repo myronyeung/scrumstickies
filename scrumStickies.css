@@ -7,16 +7,16 @@
 /* For readability, explicitly stating that these styles apply to all devices */
 @media all {
 	html {
-		font-size: 14px;
+		font-size: 15px;
 		font-family: Helvetica, sans-serif;
 	}
 	.ticket {
 		position: relative;
 		float: left;
 		box-sizing: border-box;
-		width: 3in;
-		height: 3in;
-		padding: 0.25in;
+		width: 2.75in;
+		height: 2.75in;
+		padding: 0.15in;
 		list-style-type: none;
 	}
 	.ticket.story {
@@ -31,10 +31,11 @@
 		margin-bottom: 5px;
 	}
 	.id {
+		font-size: 1.2rem;
 		margin-bottom: 10px;
 	}
 	.description {
-		font-size: 1.1rem;
+		font-size: 1.2rem;
 		font-weight: bold;
 	}
 	.points {
@@ -71,6 +72,7 @@
 	}
 	.subtask {
 		font-size: 0.8rem;
+		text-align: right;
 	}
 }
 
